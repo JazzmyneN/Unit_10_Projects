@@ -4,8 +4,8 @@
    Case Problem 3
 
    Pixal Arts and Entertainment Animation Styles
-   Author: 
-   Date:   
+   Author: Jazzmyne Nixon
+   Date: 12/11/2019 
 
    Filename: 
    
@@ -20,8 +20,14 @@
 
 
 /* Transition Effects */
-
-
+nav#gameLinks a {
+   position: relative;
+   color: white;
+   transition: color 0.5s;
+}
+nav#gameLinks a:hover {
+   color: rgb(255,194,99);
+}
 
 
 /* Sprite Styles */
